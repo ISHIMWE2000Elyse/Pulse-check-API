@@ -312,7 +312,7 @@ This project demonstrates:
 
 ---
 
-## Submission Checklist
+## Project Checklist
 
 - [x] Public Repository
 - [x] Clean Codebase
