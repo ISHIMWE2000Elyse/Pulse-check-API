@@ -240,6 +240,8 @@ Allows operators/dashboard systems to query the current status of any monitor.
 
 Real-world monitoring systems need visibility into current device state for dashboards, audits, and troubleshooting.
 
+Implemented pause/resume functionality to allow maintenance without triggering alerts.
+
 ---
 
 ## Example Test Flow
